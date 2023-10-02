@@ -4,7 +4,7 @@
 
 # PYTHON + SELENIUM + PYTEST WITH POM
 
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/release)
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![Selenium Version](https://img.shields.io/badge/selenium-4.x-green.svg)](https://pypi.org/project/selenium/)
 [![Pytest Version](https://img.shields.io/badge/pytest-7.x-red.svg)](https://docs.pytest.org/en/latest/)
 [![Openpyxl Version](https://img.shields.io/badge/openpyxl-3.x-orange.svg)](https://openpyxl.readthedocs.io/en/stable/)
