@@ -23,7 +23,7 @@ Este proyecto es un marco de automatización de pruebas bajo la estructura Page 
 
 ## Requisitos de Instalación
 
-Asegúrate de tener Python 3.x instalado. Puedes descargarlo [aquí](https://www.python.org/downloads/release).
+Asegúrate de tener Python 3.x instalado. Puedes descargarlo [aquí](https://www.python.org/downloads/).
 
 Instala las dependencias usando pip:
 
